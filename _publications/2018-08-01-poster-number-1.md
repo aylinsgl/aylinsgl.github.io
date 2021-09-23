@@ -2,14 +2,13 @@
 title: "Investigating viewpoint-dependence and context in object recognition using depth rotated 3D models in a sequential matching task"
 collection: publications
 permalink: /publication/2018-08-01-poster-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'Poster presented at European Conference on Visual Perception 2018.'
+date: 2018-08
+venue: 'European Conference on Visual Perception'
+paperurl: 'http://academicpages.github.io/files/Poster_final.pdf'
+citation: 'Kallmayer, Draschkow, Võ, 2018. &quot;Investigating viewpoint-dependence and context in object recognition using depth rotated 3D models in a sequential matching task.&quot; <i>European Conference on Visual Perception.</i>'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download poster here](http://academicpages.github.io/files/Poster_final.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Kallmayer, Draschkow, & Võ. (2018). "Investigating viewpoint-dependence and context in object recognition using depth rotated 3D models in a sequential matching task." <i>European Conference on Visual Perception</i>.
